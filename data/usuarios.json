@@ -1,0 +1,33 @@
+[
+    {
+      "id": "1",
+      "numeroDocumento": "12345678",
+      "nombre": "Juan",
+      "apellido": "Perez",
+      "nacionalidad": "Argentino",
+      "edad": 30,
+      "causaDefuncion": "Accidente",
+      "lugarInhumacion": "Zona Norte"
+    },
+    {
+      "id": "2",
+      "numeroDocumento": "87654321",
+      "nombre": "Maria",
+      "apellido": "Gomez",
+      "nacionalidad": "Argentina",
+      "edad": 25,
+      "causaDefuncion": "Enfermedad",
+      "lugarInhumacion": "Zona Sur"
+    },
+    {
+      "id": "3",
+      "numeroDocumento": "11223344",
+      "nombre": "Carlos",
+      "apellido": "Rodriguez",
+      "nacionalidad": "Uruguayo",
+      "edad": 45,
+      "causaDefuncion": "Infarto",
+      "lugarInhumacion": "Zona Este"
+    }
+  ]
+  

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "numeroDocumento": "55667788",
+    "nombre": "Ana",
+    "apellido": "Lopez",
+    "direccion": "Calle Falsa 123",
+    "email": "ana.lopez@example.com",
+    "telefono": "1234-5678"
+  },
+  {
+    "id": "2",
+    "numeroDocumento": "99887766",
+    "nombre": "Luis",
+    "apellido": "Martinez",
+    "direccion": "Avenida Siempre Viva 456",
+    "email": "luis.martinez@example.com",
+    "telefono": "8765-4321"
+  },
+  {
+    "id": "3",
+    "numeroDocumento": "44332211",
+    "nombre": "Elena",
+    "apellido": "Gonzalez",
+    "direccion": "Calle del Sol 789",
+    "email": "elena.gonzalez@example.com",
+    "telefono": "1122-3344"
+  },
+  {
+    "id": "20019f96-ba3e-4f70-9529-91caa3d84224",
+    "numeroDocumento": "55667788",
+    "nombre": "negro",
+    "apellido": "pe",
+    "direccion": "Calle Falsa 123",
+    "email": "ana.lopez@example.com",
+    "telefono": "1234-5678"
+  }
+]
